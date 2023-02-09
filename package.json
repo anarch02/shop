@@ -1,0 +1,53 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0"
+    },
+    "name": "lacore-shop",
+    "description": "- php artisan storage:link     - php artisan migrate",
+    "version": "1.0.0",
+    "main": "vite.config.js",
+    "directories": {
+        "test": "tests"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.6",
+        "animate": "^1.0.0",
+        "asynckit": "^0.4.0",
+        "bootstrap": "^5.2.3",
+        "combined-stream": "^1.0.8",
+        "delayed-stream": "^1.0.0",
+        "esbuild": "^0.16.10",
+        "follow-redirects": "^1.15.2",
+        "form-data": "^4.0.0",
+        "function-bind": "^1.1.1",
+        "has": "^1.0.3",
+        "is-core-module": "^2.11.0",
+        "mime-db": "^1.52.0",
+        "mime-types": "^2.1.35",
+        "nanoid": "^3.3.4",
+        "path-parse": "^1.0.7",
+        "picocolors": "^1.0.0",
+        "picomatch": "^2.3.1",
+        "proxy-from-env": "^1.1.0",
+        "resolve": "^1.22.1",
+        "rollup": "^3.8.1",
+        "source-map-js": "^1.0.2",
+        "supports-preserve-symlinks-flag": "^1.0.0",
+        "vite-plugin-full-reload": "^1.0.5"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
